@@ -12,4 +12,8 @@ I use this to make images like this for the Chi Hack Night year in review posts:
 2. `pip install -r requirements.txt`
 3. `python get_ty_images.py`
 
+## Handy resources
 
+Getting a list of YouTube video id's from a YouTube Playlist: https://developers.google.com/youtube/v3/docs/playlistItems/list?apix_params=%7B%22part%22%3A%22contentDetails%22%2C%22maxResults%22%3A35%2C%22playlistId%22%3A%22PL_dBjjdnIbKyQXLBrIn_LLHTnwR03baW0%22%7D#usage
+
+Converting a JSON object to a CSV (to later convert into a python array): https://json-csv.com/
