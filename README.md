@@ -1,6 +1,10 @@
-# Parserator Website
+# Youtube Playlist Images
 
-Fetches vido preview images from all videos in a YouTube playlist
+Fetches vido preview images from all videos in a YouTube playlist.
+
+I use this to make images like this for the Chi Hack Night year in review posts:
+
+![Chi Hack Night 2017 year in review](https://chihacknight.org/images/blog/2017-12-28-2017-year-in-review/2017-speakers.jpg)
 
 ## Running locally
 
