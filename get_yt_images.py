@@ -15,7 +15,42 @@ def main():
     print("Fetching images ...")
   
     # list of youtube videos
-    videos = ['7UGx_s0Fpqo','WCiXUIDAh4U','SXGBxiAwABc','hBRkpR3DdbA','_ZM1xMqnJlE','RPlyRw3j_3M','w2iOAdE8sRE','h2Z09gOOOJg','UyPSJoMz0to','OtD017CUjz0','T7rnr0GQoCs','Qie7JSJUHRg','NamfsCgmYfo','eB2DuJaTPwU','A0ZIYlhf_k0','uLRIo8EIuY8','zHklYW13t5o','jbYse34ScmA','FMOaEfd5n8E','q6_GBf_US0M','bKgvjuhMJFY','-QOFOXw25P8','YndLXDVyV-g','O78jCdLCHsg','E8FiOwJO5sk','yITUudS1SX0','ZrT_4eEA2Iw','-LG2HoO9ZWo','vhuJrqT-9AY','osNs6vHU1ec','KeTAxbWX9VE','94zYRC16yVA','-iT4a2Mpf0M','xzbUuVoHRdI','6D_748NIlkE']
+    videos = [  
+"M5cFfirSE8o",
+"y64mJsE9e10",
+"vwgnNTD5SLU",
+"dteuCm8uEgE",
+"Sx6j5slMz3o",
+"4nqiD3I_k7o",
+"WNeHEQnlohI",
+"gee6dop3uJA",
+"KuGdBSXA4UM",
+"l6DxEOYnTtY",
+"Jld4SJGlXsI",
+"kyqsJNRaO8k",
+"h0pwAr-WYxI",
+"MgxCjvHgMl4",
+"3_u81ZjGD24",
+"tlxAmkG9DVs",
+"2mUXMbpErmA",
+"1158lO-dowQ",
+"Gv0JCgyg1G0",
+"NN7nk3xQ9dg",
+"QwHigW4Y_Q0",
+"DYnCRN-yYBo",
+"nRiQBOVb3SE",
+"0bslM63s9WE",
+"aSfYpxg28u4",
+"P8zAzDB4vAk",
+"_qEfTalzfjc",
+"AVBupIrafIg",
+"7nog-T42p6w",
+"rIwGclwfsrE",
+"u8wbA49sHBU",
+"oJs_7ZkqWHg",
+"6D1jIxyIlTw",
+"z5H_SWqmt9Q",
+]
 
     for v in videos:
         
